@@ -1,6 +1,6 @@
 # Алиса
 def my_superfunction():
-    print('What an awesome print!')
+    print('super-new print)')
 
 
 def main():
